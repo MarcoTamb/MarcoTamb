@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MarcoTamb
 - 👀 I’m interested in Statistics, Data Science and Mathematics
 - 🌱 I’m currently learning Machine Learning and AI
-- 📫 How to reach me: marcotamburro96[~AT~]gmail.com
+- 📫 How to reach me: marcotamburro96 [~%#AT%#~] gmail.com
