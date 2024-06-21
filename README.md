@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcoTamb
 - 👀 I’m interested in Statistics, Data Science and Mathematics
 - 👨🏻‍💻 I built this profile to showcase some code I have written.
-- 📌 See pinned below some code samples I am allowed to share (some quite old). 
+- 📌 See pinned project on my profile for some code samples (some quite old). 
 - 🤫 What I code at work is more ineresting, but cannot be shared for many self-evident reasons
 - 📫 How to reach me: marcotamburro96 [~%#AT%#~] gmail.com (scrambled to avoid bots, but I am sure you can figure it out)
