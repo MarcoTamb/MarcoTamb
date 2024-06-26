@@ -4,4 +4,4 @@
 - 📌 See pinned projects on my profile for some code samples
 - ❓ If you want to look at just one, check out the [Phlegrean-Fields](https://github.com/MarcoTamb/Phlegrean-Fields) repository
 - 🤫 What I code at work is more interesting, but cannot be shared for many self-evident reasons
-- 📫 How to reach out to me: marcotamburro96 [~%#AT%#~] gmail.com (scrambled to avoid bots, but I am sure you can figure it out)
+- 📫 How to reach out to me: marcotamburro96 [~%#A-T%#~] gmail.com
