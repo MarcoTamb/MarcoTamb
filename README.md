@@ -2,5 +2,5 @@
 - 👀 I’m interested in Statistics, Data Science and Mathematics
 - 👨🏻‍💻 I built this profile to showcase some code I have written.
 - 📌 See pinned projects on my profile for some code samples (some quite old). 
-- 🤫 What I code at work is more ineresting, but cannot be shared for many self-evident reasons
+- 🤫 What I code at work is more interesting, but cannot be shared for many self-evident reasons
 - 📫 How to reach me: marcotamburro96 [~%#AT%#~] gmail.com (scrambled to avoid bots, but I am sure you can figure it out)
