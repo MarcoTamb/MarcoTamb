@@ -8,11 +8,4 @@
 - 📫 marcotamburro96 [~%#A-T%#~] gmail.com
 - 🌐 [in/marco-tamburro](https://www.linkedin.com/in/marco-tamburro)
 
-
-<svg width="0" height="0" xmlns="https://www.googletagmanager.com/ns.html?id=GTM-5JJPLF2K" style="display:none;visibility:hidden">
-<foreignObject width="0" height="0">
-    <div xmlns="https://www.googletagmanager.com/ns.html?id=GTM-5JJPLF2K">
-    </div>
-</foreignObject>
-</svg>
-<!-- End Google Tag Manager (noscript) -->
+![](./track.svg)
