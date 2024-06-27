@@ -8,4 +8,3 @@
 - 📫 marcotamburro96 [~%#A-T%#~] gmail.com
 - 🌐 [in/marco-tamburro](https://www.linkedin.com/in/marco-tamburro)
 
-![](./track.svg)
